@@ -1,7 +1,7 @@
 const dotenv = require("dotenv")
 const discord = require("discord.js")
 const client = new discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES", "GUILD_WEBHOOKS", "GUILD_MESSAGE_REACTIONS"] })
-var BotPrefix = "!t"
+var BotPrefix = "!t" //var because global scope
 
 //this bot is not even good, what are you doing?
 /*ah anyway
