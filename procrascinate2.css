@@ -1,0 +1,11 @@
+/*i like styles*/
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: green;
+}
+:root {
+    background-color: aqua;
+}
+:hover {
+    color: #272727
+}
